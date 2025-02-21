@@ -95,11 +95,6 @@
     <img src="https://komarev.com/ghpvc/?username=lorenzocazzador&style=flat-square&color=blue" alt=""/>
     <a href="https://wakatime.com/@309e0ca3-387a-49b7-b5d7-56486af110d9"><img src="https://wakatime.com/badge/user/309e0ca3-387a-49b7-b5d7-56486af110d9.svg" alt="Total time coded since Jun 23 2024" /></a>
   </div>
-  <div style="margin-top: 10px;">
-    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorenzocazzador&theme=dark&background=000000)](https://git.io/streak-stats)
- 
-  </div>
 </div>
 
 <p align="center">
