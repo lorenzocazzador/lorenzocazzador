@@ -16,8 +16,8 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniCinel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanniCinel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false&hide=jupyter%20%notebook,tex" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lorenzocazzador&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzocazzador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false&hide=jupyter%20%notebook,tex" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -92,12 +92,12 @@
 </h2>
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=GiovanniCinel&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=lorenzocazzador&style=flat-square&color=blue" alt=""/>
     <a href="https://wakatime.com/@309e0ca3-387a-49b7-b5d7-56486af110d9"><img src="https://wakatime.com/badge/user/309e0ca3-387a-49b7-b5d7-56486af110d9.svg" alt="Total time coded since Jun 23 2024" /></a>
   </div>
   <div style="margin-top: 10px;">
     
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiovanniCinel&theme=dark&background=000000)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorenzocazzador&theme=dark&background=000000)](https://git.io/streak-stats)
  
   </div>
 </div>
