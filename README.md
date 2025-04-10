@@ -99,7 +99,7 @@
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://komarev.com/ghpvc/?username=lorenzocazzador&style=flat-square&color=blue" alt=""/>
-    <a href="https://wakatime.com/@309e0ca3-387a-49b7-b5d7-56486af110d9"><img src="https://wakatime.com/badge/user/309e0ca3-387a-49b7-b5d7-56486af110d9.svg" alt="Total time coded since Jun 23 2024" /></a>
+    <!--- <a href="https://wakatime.com/@309e0ca3-387a-49b7-b5d7-56486af110d9"><img src="https://wakatime.com/badge/user/309e0ca3-387a-49b7-b5d7-56486af110d9.svg" alt="Total time coded since Jun 23 2024" /></a> --->
   </div>
 </div>
 
